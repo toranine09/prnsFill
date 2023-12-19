@@ -1,5 +1,5 @@
 # prnsFill
-prnsFill is a script for use on websites which dynamically fill a person's links to sites showing their pronouns, such as [pronouns.cc][https://pronouns.cc], [pronouns.page][https://pronouns.page] and [pronouny.xyz][https://pronouny.xyz/].
+prnsFill is a script for use on websites which dynamically fill a person's links to sites showing their pronouns, such as pronouns.cc, pronouns.page and pronouny.xyz.
 
 ## Setup
 The only configuration required is to set the ID of the HTML element, the link, the clickable flavour text, the fallback text to display if the script fails to complete, and the type of randomness for the clickable flavour text.
